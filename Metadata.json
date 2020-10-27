@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 27727,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-create-reports-on--your-automation-activity/master/New-AutomationReport.ps1",
+    "DownloadCount": 2171,
+    "Id": "Azure-Automation-Create-dc74266e",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 175,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-2-20T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Use New-AutomationReport runbook in your Azure Automation accounts to get reports on the health of your runbooks and jobs.  Link the runbook to a schedule and opt to receive the reports by email to get hands-free reporting and receive key information in your inbox daily.",
+    "Title": "Azure Automation: Create Reports on  Your Automation Activity",
+    "UpdatedDate": "2015-3-3T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-create-reports-on--your-automation-activity",
+    "UserTags": "Utility, Azure Automation"
+}
